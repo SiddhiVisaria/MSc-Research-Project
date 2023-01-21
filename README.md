@@ -8,5 +8,5 @@
 
 3. Run the LSTM.ipynb and CNN.ipynb files
 
-4. Below is the access link for Google Drive, in case the files in this folder are not accessible.
+4. Below is the access link for Google Drive, in case the files in this folder are not accessible (includes dataset).
 https://drive.google.com/drive/folders/11CgaIimBwZgYzKN15veg4xwfOCHQf2mP?usp=sharing
